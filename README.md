@@ -13,7 +13,6 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/langchain-ai/langchain)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/langchainai.svg?style=social&label=Follow%20%40LangChainAI)](https://twitter.com/langchainai)
 
-Looking for the JS/TS library? Check out [LangChain.js](https://github.com/langchain-ai/langchainjs).
 
 To help you ship LangChain apps to production faster, check out [LangSmith](https://smith.langchain.com). 
 [LangSmith](https://smith.langchain.com) is a unified developer platform for building, testing, and monitoring LLM applications. 
@@ -62,17 +61,16 @@ Use [LangGraph](/docs/concepts/#langgraph) to build stateful agents with first-c
 **❓ Question answering with RAG**
 
 - [Documentation](https://python.langchain.com/v0.2/docs/tutorials/rag/)
-- End-to-end Example: [Chat LangChain](https://chat.langchain.com) and [repo](https://github.com/langchain-ai/chat-langchain)
+- End-to-end Example: [Chat LangChain](https://chat.langchain.com) 
 
 **🧱 Extracting structured output**
 
 - [Documentation](https://python.langchain.com/v0.2/docs/tutorials/extraction/)
-- End-to-end Example: [SQL Llama2 Template](https://github.com/langchain-ai/langchain-extract/)
 
 **🤖 Chatbots**
 
 - [Documentation](https://python.langchain.com/v0.2/docs/tutorials/chatbot/)
-- End-to-end Example: [Web LangChain (web researcher chatbot)](https://weblangchain.vercel.app) and [repo](https://github.com/langchain-ai/weblangchain)
+- End-to-end Example: [Web LangChain (web researcher chatbot)](https://weblangchain.vercel.app) 
 
 And much more! Head to the [Tutorials](https://python.langchain.com/v0.2/docs/tutorials/) section of the docs for more.
 
@@ -125,12 +123,5 @@ Please see [here](https://python.langchain.com) for full documentation, which in
 - [🦜🏓 LangServe](https://python.langchain.com/docs/langserve): Deploy LangChain runnables and chains as REST APIs.
 
 
-## 💁 Contributing
 
-As an open-source project in a rapidly developing field, we are extremely open to contributions, whether it be in the form of a new feature, improved infrastructure, or better documentation.
 
-For detailed information on how to contribute, see [here](https://python.langchain.com/v0.2/docs/contributing/).
-
-## 🌟 Contributors
-
-[![langchain contributors](https://contrib.rocks/image?repo=langchain-ai/langchain&max=2000)](https://github.com/langchain-ai/langchain/graphs/contributors)
